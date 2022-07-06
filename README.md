@@ -3,10 +3,6 @@
 My name is Alekz. I'm a lab technician by day 🌞 and a web developer by night. 🌝 <br>
 🔭 I’m currently working on my portfolio website while making my way through the front end development pathways on Free Code Camp and The Odin Project. <br>
 
-## Contact
-
-You can reach me on Twitter [@alekzandriia](https://www.twitter.com/alekzandriia)
-
 <!--
 **alekzandria/alekzandria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

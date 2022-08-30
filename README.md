@@ -1,18 +1,23 @@
-<h1 align="center">Hi 👋, I'm Alekz</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
-
+<h1 align="center">👋 Heya, I'm Alekz</h1>
 <p align="left"> <a href="https://twitter.com/alekzandriia" target="blank"><img src="https://img.shields.io/twitter/follow/alekzandriia?logo=twitter&style=for-the-badge" alt="alekzandriia" /></a> </p>
 
-- I'm a lab technician by day 🌞 and a web developer by night. 🌝 
+🍬 Passionate full-snack web developer
 
-- I’m currently working on my portfolio website **--Stay tuned!** 📺
+🥼 Mad scientist
 
-- You can reach me **hello@alekzandriia.com** 📫
+🇨🇦 Hailing from the Great White North
+
+🔗 I’m currently working on updating my portfolio **--Stay tuned!** 📺
+
+💌 You can reach me **hello@alekzandriia.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alekzandriia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alekzandriia" height="30" width="40" /></a>
 <a href="https://instagram.com/alekzandriia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alekzandriia" height="30" width="40" /></a>
+<a href="https://codepen.io/alekzandriia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alekzandriia" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alekzandriia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alekzandriia" height="30" width="40" /></a>
+<a href="https://dribbble.com/alekzandriia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="alekzandriia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

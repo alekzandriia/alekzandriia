@@ -7,7 +7,7 @@
 
 🇨🇦 Hailing from the Great White North
 
-🔗 I’m currently working on updating my portfolio **--Stay tuned!** 📺
+🔗 I’m currently working on migrating my Wordpress blog to Gatsby **--Stay tuned!** 📺
 
 💌 You can reach me @ **hello@alekzandriia.com** 
 

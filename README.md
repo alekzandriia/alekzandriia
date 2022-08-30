@@ -9,7 +9,7 @@
 
 🔗 I’m currently working on updating my portfolio **--Stay tuned!** 📺
 
-💌 You can reach me **hello@alekzandriia.com** 
+💌 You can reach me @ **hello@alekzandriia.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

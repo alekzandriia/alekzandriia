@@ -1,5 +1,8 @@
-<h1 align="center">👋 Heya, I'm Alekz</h1>
+![Alekzandriia](index-white.svg "Text to show on mouseover").
+
 <p align="left"> <a href="https://twitter.com/alekzandriia" target="blank"><img src="https://img.shields.io/twitter/follow/alekzandriia?logo=twitter&style=for-the-badge" alt="alekzandriia" /></a> </p>
+
+👋 Heya, I'm Alekz
 
 🍬 Passionate full-snack web developer
 

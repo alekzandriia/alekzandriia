@@ -33,7 +33,7 @@
 
 ## Twitter
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=alekzandriia)](https://github.com/alekzandriia) 
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=alekzandriia)](https://twitter.com/alekzandriia) 
 
 <!-- 
 
